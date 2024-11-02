@@ -1,0 +1,2 @@
+warehouse_location,customer,ship_to_location,sales_order_number,salesperson,customer_po_number,commodity_id,style_id,size_id,grade_id,label_id,region_id,method_id,storage_id,color_id,order_quantity,sales_order_date,ship_date,line_id,uploaded_at,import_id,flag
+COBBLESTONE,"KINGS RIVER PACKING, LP",JIREH ORANGE CO,368874,ALEX MARRIOTT,368770,NAVEL,CTN,056,FANCY,,USA,SCTN F NAV KRP,COBBLESTONE,REGULAR,270,2024-11-01,2024-11-01,42e73ddaca8cea6ca10856bcf3cecefd,2024-11-01 14:16:13.256825,18,day_of_order
